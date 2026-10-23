@@ -55,5 +55,3 @@ ADC averaging and duty-cycle ramping
 Current measurement and current limiting
 Sending data to the PC over UART
 License
-
-Add a license here if you want one (e.g. MIT).
